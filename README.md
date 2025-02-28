@@ -11,6 +11,27 @@ Hi there! I’m **RajatZ**, a dynamic **DevOps Engineer** and **Freelancer** wit
 
 ## 🔧 Tools & Technologies
 
+![alt text](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
+![alt text](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
+![alt text](https://img.shields.io/badge/Alibaba%20Cloud-FF6A00.svg?style=for-the-badge&logo=Alibaba-Cloud&logoColor=white)
+![alt text](https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white)
+![alt text](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white)
+![alt text](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![alt text](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![alt text](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white)
+![alt text](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
+![alt text](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![alt text](https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white)
+![alt text](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
+![alt text](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white)
+![alt text](https://img.shields.io/badge/Datadog-632CA6.svg?style=for-the-badge&logo=Datadog&logoColor=white)
+![alt text](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![alt text](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
+
+
+
+
+
 - **DevOps Stack**: Jenkins, Docker, Kubernetes, Terraform, Ansible, GitHub Actions
 - **Cloud Platforms**: AWS, Azure, Google Cloud
 - **Languages**: Python, Bash, YAML
@@ -30,3 +51,5 @@ When I’m not building pipelines or conducting training, you’ll find me brain
 ---
 
 Feel free to connect with me if you’re looking for high-quality DevOps solutions or if you're interested in learning DevOps from a passionate trainer! 🚀
+
+
