@@ -60,6 +60,6 @@ When I’m not building pipelines or conducting training, you’ll find me brain
 Feel free to connect with me if you’re looking for high-quality DevOps solutions or if you're interested in learning DevOps from a passionate trainer! 🚀
 
 
-<p align="left"> <a href="https://www.instagram.com/rajatpzade" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" width="30" height="30"/> </a> &nbsp; <a href="www.linkedin.com/in/rajat-zade123/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/> </a> </p>
+<p align="left"> <a href="https://www.instagram.com/rajatpz/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" width="30" height="30"/> </a> &nbsp; <a href="www.linkedin.com/in/rajat-zade123/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/> </a> </p>
 
 
