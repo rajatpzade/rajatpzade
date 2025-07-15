@@ -66,6 +66,19 @@ Feel free to connect with me if you’re looking for high-quality DevOps solutio
 
 
 
+## 🚀 DevOps Engineer
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devops/devops-original.svg" alt="DevOps Logo" width="50" height="50"/>
+</p>
+
+<p align="left">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200px" alt="DevOps Animation" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af2b680b-4c4a-4b47-87f9-45f3b2d5c9f4.png" width="600px" alt="DevOps Banner" />
+</p>
 
 
 
