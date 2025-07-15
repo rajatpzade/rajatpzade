@@ -2,6 +2,8 @@
 
 Hi there! I’m **RajatZ**, a dynamic **DevOps Engineer** and **Freelancer** with over 6+ years of experience in empowering businesses through automation, scalability, and innovative cloud solutions. Beyond my technical expertise, I am also a **Leader** and a passionate **Trainer**, dedicated to shaping the next generation of tech professionals.
 
+
+
 ## 🚀 My Professional Journey
 
 - **DevOps Expertise**: Specializing in **Infrastructure as Code (IaC)**, **CI/CD pipelines**, **cloud-native solutions**, and **container orchestration**. My mission is to create reliable, efficient, and scalable infrastructure tailored to the needs of modern applications.
@@ -13,6 +15,7 @@ Hi there! I’m **RajatZ**, a dynamic **DevOps Engineer** and **Freelancer** wit
 
 ![alt text](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 ![alt text](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![alt text](https://img.shields.io/badge/Alibaba%20Cloud-FF6A00.svg?style=for-the-badge&logo=Alibaba-Cloud&logoColor=white)
 ![alt text](https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white)
 ![alt text](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white)
@@ -27,8 +30,12 @@ Hi there! I’m **RajatZ**, a dynamic **DevOps Engineer** and **Freelancer** wit
 ![alt text](https://img.shields.io/badge/Datadog-632CA6.svg?style=for-the-badge&logo=Datadog&logoColor=white)
 ![alt text](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![alt text](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)	![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
+[![rajat's github stats](https://github-readme-stats.vercel.app/api?username=rajatpzade)](https://github.com/rajatpzade)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatpzade&layout=compact)](https://github.com/rajatpzade)
 
 
 
@@ -51,5 +58,8 @@ When I’m not building pipelines or conducting training, you’ll find me brain
 ---
 
 Feel free to connect with me if you’re looking for high-quality DevOps solutions or if you're interested in learning DevOps from a passionate trainer! 🚀
+
+
+<p align="left"> <a href="https://www.instagram.com/rajatpzade" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" width="30" height="30"/> </a> &nbsp; <a href="https://www.linkedin.com/in/rajatpzade/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/> </a> </p>
 
 
